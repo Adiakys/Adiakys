@@ -3,3 +3,5 @@ Andrea Ficarra, senior software developer at Sirius in Turin. I work mainly in C
 - [SimRig](https://github.com/Adiakys/SimRig), sim-racing wheels and pedals on Linux, in Rust
 - [OtlpDashboard](https://github.com/Adiakys/OtlpDashboard), self-hosted OpenTelemetry dashboard in .NET
 - [OpenMediatR](https://github.com/Adiakys/OpenMediator), a free MediatR alternative
+
+More at [adiakys.github.io](https://adiakys.github.io), where the projects are billboards on a race track you can drive.
